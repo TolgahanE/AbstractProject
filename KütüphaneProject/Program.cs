@@ -1,7 +1,7 @@
 ﻿using System;
 using ServiceReference1;
 
-namespace SoyutlamaProject
+namespace AbstractProject
 {
     class Program
     {
